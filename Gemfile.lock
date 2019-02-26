@@ -186,6 +186,7 @@ PLATFORMS
 
 DEPENDENCIES
   annotate
+  bundler (~> 1.16, >= 1.16.1)
   capybara
   coffee-rails (~> 4.1.0)
   database_cleaner
